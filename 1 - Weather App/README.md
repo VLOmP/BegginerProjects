@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <a href="" target="_blank">Layout</a> |
+    <a href="https://www.figma.com/community/file/1292976492515311355" target="_blank">Layout</a> |
     <a href="#-info">Info</a> |
     <a href="#-how-it-works">How It Works</a> |
     <a href="#-credits">Credits</a>
